@@ -4,7 +4,7 @@
 This is an introduction to React, simple and class components, state, props, working with form data, pulling data in from an API, and deploying an app.
 
 You can see the demo version here:
-### https://alinutzab.github.io/jobReactApp/
+### [Demo](https://alinutzab.github.io/jobReactApp/)
 
 ## Instalation
 - Clone the repo in your terminal by clicking the _green_ clone or download button at the top right and copying the url
