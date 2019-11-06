@@ -12,7 +12,7 @@ You can see the demo version here:
   - replace URL with the url you copied
   - hit enter
 - This will copy all the files from this repo down to your computer
-- In your terminal, cd into the directory you just created
+- In your terminal, cd react-app (the directory you just created)
 - Type ```npm install``` to install all dependencies
 - Last, but not least, type ```npm start``` to run the app locally.
 
